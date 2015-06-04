@@ -27,6 +27,7 @@
  **/
 - (NSInteger) increaseNumberBy1:(NSInteger) number;
 
+
 /**
  Adds two numbers together.
  
@@ -47,11 +48,11 @@
  */
 - (NSInteger) addNumber:(NSInteger) number1 toNumber:(NSInteger) number2;
 
+
 /**
  Determines the remainder when one number is divided by another.
  
  Example usage:
- 
  @code
  NSInteger result = [calc remainderOfNumber:6 dividedByNumber:4];
  // result is 2.

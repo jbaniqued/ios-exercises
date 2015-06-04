@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlocExercises/SimpleCalculatorTests.m"
+            timestampString = "454195443.435486"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "-testThatIncrementsWork"
+            landmarkType = "5">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SimpleCalculatorTests testThatIncrementsWork]"
+                  moduleName = "BlocExercises"
+                  urlString = "file:///Users/Jbaniqued/Desktop/Bloc/ios-exercises/BlocExercises/SimpleCalculatorTests.m"
+                  timestampString = "455141711.972068"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "128">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SimpleCalculatorTests testThatIncrementsWork]"
+                  moduleName = "BlocExercises"
+                  urlString = "file:///Users/Jbaniqued/Desktop/Bloc/ios-exercises/BlocExercises/SimpleCalculatorTests.m"
+                  timestampString = "455141711.972293"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "531">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SimpleCalculatorTests testThatIncrementsWork]"
+                  moduleName = "BlocExercises"
+                  urlString = "file:///Users/Jbaniqued/Desktop/Bloc/ios-exercises/BlocExercises/SimpleCalculatorTests.m"
+                  timestampString = "455141711.972541"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "973">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "-[SimpleCalculatorTests testThatIncrementsWork]"
+                  moduleName = "BlocExercises"
+                  urlString = "file:///Users/Jbaniqued/Desktop/Bloc/ios-exercises/BlocExercises/SimpleCalculatorTests.m"
+                  timestampString = "455141711.972807"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "31"
+                  endingLineNumber = "31"
+                  offsetFromSymbolStart = "1101">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
