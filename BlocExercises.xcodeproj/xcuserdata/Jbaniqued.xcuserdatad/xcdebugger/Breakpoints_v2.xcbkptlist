@@ -25,7 +25,7 @@
                   symbolName = "-[SimpleCalculatorTests testThatIncrementsWork]"
                   moduleName = "BlocExercises"
                   urlString = "file:///Users/Jbaniqued/Desktop/Bloc/ios-exercises/BlocExercises/SimpleCalculatorTests.m"
-                  timestampString = "455424349.199684"
+                  timestampString = "455565902.740788"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "31"
@@ -39,7 +39,7 @@
                   symbolName = "-[SimpleCalculatorTests testThatIncrementsWork]"
                   moduleName = "BlocExercises"
                   urlString = "file:///Users/Jbaniqued/Desktop/Bloc/ios-exercises/BlocExercises/SimpleCalculatorTests.m"
-                  timestampString = "455424349.199914"
+                  timestampString = "455565902.741014"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "31"
@@ -53,7 +53,7 @@
                   symbolName = "-[SimpleCalculatorTests testThatIncrementsWork]"
                   moduleName = "BlocExercises"
                   urlString = "file:///Users/Jbaniqued/Desktop/Bloc/ios-exercises/BlocExercises/SimpleCalculatorTests.m"
-                  timestampString = "455424349.200253"
+                  timestampString = "455565902.741247"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "31"
@@ -67,7 +67,7 @@
                   symbolName = "-[SimpleCalculatorTests testThatIncrementsWork]"
                   moduleName = "BlocExercises"
                   urlString = "file:///Users/Jbaniqued/Desktop/Bloc/ios-exercises/BlocExercises/SimpleCalculatorTests.m"
-                  timestampString = "455424349.200504"
+                  timestampString = "455565902.741469"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "31"
@@ -123,6 +123,22 @@
             endingLineNumber = "34"
             landmarkName = "-numberOfCheesesStringWithCheeseCount:"
             landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "BlocExercises/EqualityDeterminer.m"
+            timestampString = "455565725.166306"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "28"
+            endingLineNumber = "28"
+            landmarkName = "@implementation EqualityDeterminer"
+            landmarkType = "3">
          </BreakpointContent>
       </BreakpointProxy>
    </Breakpoints>
