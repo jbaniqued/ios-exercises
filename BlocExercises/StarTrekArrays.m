@@ -34,12 +34,17 @@
 
 - (BOOL) characterArrayContainsWorf:(NSArray *)characterArray {
     /* WORK HERE */
-    NSPredicate *worfIsPresent = [NSPredicate predicateWithFormat:@"SELF CONTAINS[c] 'Worf'"];
     for (NSString *characterName in characterArray) {
         NSString *lowercaseName = characterName.lowercaseString;
         NSRange worfRange = [lowercaseName rangeOfString:@"worf"];
+        
+        if (worfRange.location != NSNotFound) {
+            return YES;
+        }
     }
-    }
+    
+    return NO;
+}
 @end
 
     //Completely lost on NSPredicate....
