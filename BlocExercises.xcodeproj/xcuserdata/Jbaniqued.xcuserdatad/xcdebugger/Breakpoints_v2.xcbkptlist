@@ -25,7 +25,7 @@
                   symbolName = "-[SimpleCalculatorTests testThatIncrementsWork]"
                   moduleName = "BlocExercises"
                   urlString = "file:///Users/Jbaniqued/Desktop/Bloc/ios-exercises/BlocExercises/SimpleCalculatorTests.m"
-                  timestampString = "455939530.534008"
+                  timestampString = "456677781.512855"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "31"
@@ -39,7 +39,7 @@
                   symbolName = "-[SimpleCalculatorTests testThatIncrementsWork]"
                   moduleName = "BlocExercises"
                   urlString = "file:///Users/Jbaniqued/Desktop/Bloc/ios-exercises/BlocExercises/SimpleCalculatorTests.m"
-                  timestampString = "455939530.534238"
+                  timestampString = "456677781.513148"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "31"
@@ -53,7 +53,7 @@
                   symbolName = "-[SimpleCalculatorTests testThatIncrementsWork]"
                   moduleName = "BlocExercises"
                   urlString = "file:///Users/Jbaniqued/Desktop/Bloc/ios-exercises/BlocExercises/SimpleCalculatorTests.m"
-                  timestampString = "455939530.534449"
+                  timestampString = "456677781.513377"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "31"
@@ -67,7 +67,7 @@
                   symbolName = "-[SimpleCalculatorTests testThatIncrementsWork]"
                   moduleName = "BlocExercises"
                   urlString = "file:///Users/Jbaniqued/Desktop/Bloc/ios-exercises/BlocExercises/SimpleCalculatorTests.m"
-                  timestampString = "455939530.534675"
+                  timestampString = "456677781.513561"
                   startingColumnNumber = "9223372036854775807"
                   endingColumnNumber = "9223372036854775807"
                   startingLineNumber = "31"
@@ -164,27 +164,11 @@
             ignoreCount = "0"
             continueAfterRunningActions = "No"
             filePath = "BlocExercises/StarTrekArrays.m"
-            timestampString = "455768796.504685"
+            timestampString = "456178244.981436"
             startingColumnNumber = "9223372036854775807"
             endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "35"
-            endingLineNumber = "35"
-            landmarkName = "-characterArrayContainsWorf:"
-            landmarkType = "5">
-         </BreakpointContent>
-      </BreakpointProxy>
-      <BreakpointProxy
-         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
-         <BreakpointContent
-            shouldBeEnabled = "No"
-            ignoreCount = "0"
-            continueAfterRunningActions = "No"
-            filePath = "BlocExercises/StarTrekArrays.m"
-            timestampString = "455768850.840947"
-            startingColumnNumber = "9223372036854775807"
-            endingColumnNumber = "9223372036854775807"
-            startingLineNumber = "37"
-            endingLineNumber = "37"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
             landmarkName = "-characterArrayContainsWorf:"
             landmarkType = "5">
          </BreakpointContent>

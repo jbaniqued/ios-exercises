@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		17E46D20194763D70018BD4C /* EqualityDeterminer.m in Sources */ = {isa = PBXBuildFile; fileRef = 17E46D1F194763D70018BD4C /* EqualityDeterminer.m */; };
 		17E46D22194768C90018BD4C /* EqualityDeterminerTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 17E46D21194768C90018BD4C /* EqualityDeterminerTests.m */; };
+		29DDDBCF1B30BD59005271C6 /* car.m in Sources */ = {isa = PBXBuildFile; fileRef = 29DDDBCE1B30BD59005271C6 /* car.m */; };
 		931AB0B11945063500B4FB76 /* XCTest.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 931AB0B01945063500B4FB76 /* XCTest.framework */; };
 		931AB0B31945063500B4FB76 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 931AB0B21945063500B4FB76 /* Foundation.framework */; };
 		931AB0B51945063500B4FB76 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 931AB0B41945063500B4FB76 /* UIKit.framework */; };
@@ -37,6 +38,8 @@
 		17E46D1E194763D70018BD4C /* EqualityDeterminer.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = EqualityDeterminer.h; sourceTree = "<group>"; };
 		17E46D1F194763D70018BD4C /* EqualityDeterminer.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EqualityDeterminer.m; sourceTree = "<group>"; };
 		17E46D21194768C90018BD4C /* EqualityDeterminerTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = EqualityDeterminerTests.m; sourceTree = "<group>"; };
+		29DDDBCD1B30BD59005271C6 /* car.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = car.h; sourceTree = "<group>"; };
+		29DDDBCE1B30BD59005271C6 /* car.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = car.m; sourceTree = "<group>"; };
 		931AB0AD1945063500B4FB76 /* BlocExercises.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = BlocExercises.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		931AB0B01945063500B4FB76 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		931AB0B21945063500B4FB76 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = Library/Frameworks/Foundation.framework; sourceTree = DEVELOPER_DIR; };
@@ -138,6 +141,8 @@
 				936964B31948F7B30021C271 /* Simple Data Types and Objects */,
 				936964BB19496EEC0021C271 /* Properties */,
 				931AB0B71945063500B4FB76 /* Supporting Files */,
+				29DDDBCD1B30BD59005271C6 /* car.h */,
+				29DDDBCE1B30BD59005271C6 /* car.m */,
 			);
 			path = BlocExercises;
 			sourceTree = "<group>";
@@ -312,6 +317,7 @@
 				93BDE6B2194A6C8600F2DE30 /* WizardOfOz.m in Sources */,
 				931AB0CD19464C3500B4FB76 /* SimpleCalculatorTests.m in Sources */,
 				931AB0C5194508D300B4FB76 /* MarysAppleHandler.m in Sources */,
+				29DDDBCF1B30BD59005271C6 /* car.m in Sources */,
 				936964B01947CF820021C271 /* AwesomeCounterTests.m in Sources */,
 				93BDE6B4194A6D3F00F2DE30 /* WizardOfOzTests.m in Sources */,
 				936964BA194949C20021C271 /* NumberHandlerTests.m in Sources */,
