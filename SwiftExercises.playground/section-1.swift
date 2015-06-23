@@ -6,12 +6,13 @@ Strings
 
 */
 
-func favoriteCheeseStringWithCheese(cheese: String) -> String {
+func favoriteCheeseStringWithCheese(cheese: String = "cheddar") -> String {
     // WORK HERE
-    return cheese
+    return "My favorite cheese is " + cheese
 }
 
-let fullSentence = favoriteCheeseStringWithCheese("cheddar")
+let fullSentence = favoriteCheeseStringWithCheese()
+
 // Make fullSentence say "My favorite cheese is cheddar."
 
 /*
@@ -20,13 +21,15 @@ Arrays & Dictionaries
 
 */
 
-let numberArray = [1, 2, 3, 4]
+var numberArray = [1, 2, 3, 4]
 // Add 5 to this array
 // WORK HERE
+numberArray.append(5)
 
-let numberDictionary = [1 : "one", 2 : "two", 3 : "three", 4 : "four"]
+var numberDictionary = [1 : "one", 2 : "two", 3 : "three", 4 : "four"]
 // Add 5 : "five" to this dictionary
 // WORK HERE
+numberDictionary = [1 : "one", 2 : "two", 3 : "three", 4 : "four", 5 : "five"]
 
 /*
 
@@ -36,9 +39,15 @@ Loops
 
 // Use a closed range loop to print 1 - 10, inclusively
 // WORK HERE
+for closedRangeLoop in 1...10 {
+    println(closedRangeLoop)
+}
 
 // Use a half-closed range loop to print 1 - 10, inclusively
 // WORK HERE
+for closedRangeLoop in 1..<11 {
+    println(closedRangeLoop)
+}
 
 let worf = [
     "name": "Worf",
@@ -58,13 +67,14 @@ let characters = [worf, picard]
 func favoriteDrinksArrayForCharacters(characters:Array<Dictionary<String, String>>) -> Array<String> {
     // return an array of favorite drinks, like ["prune juice", "tea, Earl Grey, hot"]
     // WORK HERE
+    var favoriteDrinksArrayForCharacters = []
+    for (key, item) in characters {
+        if key == "favorite drink" {
+            
+    favoriteDrinksArrayForCharacters.append(item)
+        }
+    }
     return []
-}
-
-let favoriteDrinks = favoriteDrinksArrayForCharacters(characters)
-
-favoriteDrinks
-
 /*
 
 Functions
@@ -76,8 +86,16 @@ Functions
 let strings = ["milk", "eggs", "bread", "challah"]
 
 // WORK HERE - make your function and pass `strings` in
+    var outputString = ""
+    for (inputString) in inputArray {
+        outputString += ";  \(inputString)"
+    }
+    println(outputString)
+}
 
-let expectedOutput = "milk;eggs;bread;challah"
+
+let expectedOutput = stringToStringsSeparatedBySemicolon(strings)
+//milk;eggs;bread;challah
 
 /*
 
@@ -89,3 +107,4 @@ let cerealArray = ["Golden Grahams", "Cheerios", "Trix", "Cap'n Crunch OOPS! All
 
 // Use a closure to sort this array alphabetically
 // WORK HERE
+let cerealArraySorted = sorted(cerealArray, >)
